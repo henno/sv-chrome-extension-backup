@@ -1,0 +1,16 @@
+{
+  "name": "sv-chrome-extension",
+  "version": "1.0.0",
+  "description": "Pivotal Tracker: [https://www.pivotaltracker.com/n/projects/2645015](https://www.pivotaltracker.com/n/projects/2645015)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "cypress-browser-extension-plugin": "^0.1.0"
+  }
+}
