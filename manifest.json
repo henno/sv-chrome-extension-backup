@@ -15,7 +15,7 @@
         "scripts/content.js"
       ],
       "matches": [
-        "https://siseveeb.voco.ee/kutseope/oppetoo/paevik/taitmine"
+        "https://siseveeb.voco.ee/kutseope/oppetoo/paevik/*"
       ]
     }
   ]
